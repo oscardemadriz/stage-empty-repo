@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yago",
+      "surnames": "Cousiño",
+      "title": "Manfred / La Media Inglesa",
+      "description": "As a Product Manager, I am passionate about creating digital products that connect people and businesses with common goals, interests, and values. In 2018, I began my journey at Manfred as part of a team of two and a half people. In 2020, with a team of seven people, we sold the company to Sngular to take it to new heights. During my time at Manfred, I had the opportunity to work in sales, internal hiring, and operations, which helped me understand how to make a company profitable.\n\nAdditionally, in 2017, I founded The Wing with the goal of establishing a new standard in sports journalism. I learned a lot about the industry and myself during this experience. Currently, I continue to work in the sports field alongside the team at La Media Inglesa, a media outlet about English football that has multiplied its revenue fivefold in two years.\n\nI am always looking for opportunities to connect with the technical community and stay up-to-date on the latest trends. I have organized events such as NOSDay, Cañas A La Madrileña, and TarugoConf."
+    }
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/oscardemadriz/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "oscardemadriz@proton.me"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
