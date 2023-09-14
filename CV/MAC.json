@@ -1,94 +1,41 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
-  "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
-  },
-  "aboutMe": {
-    "profile": {
-      "name": "Noemi",
-      "surnames": "Sajché López",
-      "title": "ingeniera en Gestión Ambiental / Desarrollo de aplicaciones Web",
-      "description": "TBD"
-    }
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Grupo Cobra"
-        },
-        "roles": [
-          {
-            "name": "Supervisora de Medio Ambiente",
-            "startDate": "2015-08-01",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Grupo Alvesthe Guatemala."
-        },
-        "roles": [
-          {
-            "name": "Supervisora de Medio Ambiente.",
-            "startDate": "2015-05-01",
-            "finishDate": "2015-08-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ministerio de Ambiente y Recursos Naturales"
-        },
-        "roles": [
-          {
-            "name": "Supervisora Ambiental ",
-            "startDate": "2014-02-01",
-            "finishDate": "2014-10-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "."
-        },
-        "roles": [
-          {
-            "name": "Elaboración del Estudio de Impacto Ambiental ",
-            "startDate": "2013-01-01",
-            "finishDate": "2014-01-01",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "careerPreferences": {
-    "contact": {
-      "contactMails": [
-        "oscardemadriz@proton.me"
-      ]
+    "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+    "settings": {
+        "language": "ES"
     },
-    "status": "searchingActively"
-  }
+    "aboutMe": {
+        "profile": {
+            "name": "Sergio",
+            "surnames": "Suñén Oliva",
+            "title": "informatico en RECAFACIL SL"
+        }
+    },
+    "experience": {
+        "jobs": [
+            {
+                "organization": {
+                    "name": "Recambiofacil",
+                    "location": {
+                        "notes": "Huesca, España"
+                    }
+                },
+                "roles": [
+                    {
+                        "name": "Ingeniero informático",
+                        "startDate": "2014-07-01"
+                    }
+                ]
+            }
+        ]
+    },
+    "careerPreferences": {
+        "contact": {
+            "publicProfiles": [
+                {
+                    "URL": "https://www.linkedin.com/in/sergio-su%C3%B1%C3%A9n-oliva-3315a01a1/",
+                    "type": "linkedin"
+                }
+            ]
+        }
+    }
 }
