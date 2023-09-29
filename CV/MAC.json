@@ -1,41 +1,163 @@
 {
-    "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
-    "settings": {
-        "language": "ES"
-    },
-    "aboutMe": {
-        "profile": {
-            "name": "Sergio",
-            "surnames": "Suñén Oliva",
-            "title": "informatico en RECAFACIL SL"
-        }
-    },
-    "experience": {
-        "jobs": [
-            {
-                "organization": {
-                    "name": "Recambiofacil",
-                    "location": {
-                        "notes": "Huesca, España"
-                    }
-                },
-                "roles": [
-                    {
-                        "name": "Ingeniero informático",
-                        "startDate": "2014-07-01"
-                    }
-                ]
-            }
-        ]
-    },
-    "careerPreferences": {
-        "contact": {
-            "publicProfiles": [
-                {
-                    "URL": "https://www.linkedin.com/in/sergio-su%C3%B1%C3%A9n-oliva-3315a01a1/",
-                    "type": "linkedin"
-                }
-            ]
-        }
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Oscar",
+      "surnames": "Sánchez",
+      "title": "Software Developer",
+      "description": "Hello! I’m Oscar Sanchez and since I was a little I loved technology, play with it, see how it works and I was fascinated about developers and hackers so meanwhile I was study I was reading, watching and trying stuff from internet.\nNow i have created web apps, APIs, small client apps, a lot of PoCs! And hacked a few things ;)\nSo what’s next ? a challenge!? Yeah for sure! \n\nExperienced Software Engineer, skilled in technology, ethical-hacking and C#. Strong engineering professional with a full-stack background and a lot of stories to tell about technology!"
     }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cloud District"
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2020-11-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "My passion to deliver beautiful digital products drove me to CloudDistrict, in order to help local businesses conceptualize and build their digital product. \n\nWe successfully set up an AWS scalable solution to process and serve invoices for 5M users, using NodeJS (Lambdas), PostgreSQL, and AWS API Gateway.\n\nLeading projects as a team tech leader, focusing the team on delivering value to the clients.\n\nStandardize internal working workflows."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "POWEREXPLOSIVE S.L."
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-10-31",
+            "challenges": [
+              {
+                "description": "I wanted to settle up for a while and my gym was looking for a personal development to improve repetitive tasks with software solutions.\n\nTaking the ownership of the entire development and making decisions based on the needs was the challenge I was looking for 😁."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldpackers"
+        },
+        "roles": [
+          {
+            "name": "Volunteer",
+            "startDate": "2019-09-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Traveling around in Italy I felt in love with Venice and Work in a Hostel where I learn a lot of human Relationships and empathy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Greenfinch Technology Ltd"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "We developed Mobile apps for local business in Ireland, taking requirements from clients and delivering beautiful apps."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "42 Silicon Valley"
+        },
+        "roles": [
+          {
+            "name": "42 Sillicon Valley",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
+              {
+                "description": "A Hackathon for a 4 weeks in California!? Yeah! i'm totally in! I was in the March piscine where you have your teammates, your computer and a lot of hours to do all the intense and infinite exercises in C that 42 throw it to you. \nTeamwork, fun and loves to technology needed =)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Startup Weekend"
+        },
+        "roles": [
+          {
+            "name": "Volunteer",
+            "startDate": "2017-11-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "What about to try to create a Startup in just 48 hours? Keep saying, try! and enjoy failing! Thats Startup Weekend about and its definitely its a life experience everyone should give a try, it doesnt matter who you are the important part is your opinnion its different and thats the key!\n\nAfter trying in March 2017 i decited to help in the making of and was huge fun! Working with the SW Team and trying to make the event posible was amazing experience."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ElevenPaths"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2013-04-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "2013 - 2016: Faast\nWe develop a Software as a Service (SaaS) of 24x7 Pentesting Service to detect threats before attackers do.\nI was implementing OSINT plugins and hacking techniques using C#.\nLearning the bases of design patterns and dealing with MongoDB.\n\n\n2016 - 2018: SealSign\nA biometric solution to securely sign documents.\nI was refactoring the style as a FrontEnd developer in ASP.Net and worked as a DevOps with Jenkins-Vagrant to automate all deployments and tasks"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/sergio-su%C3%B1%C3%A9n-oliva-3315a01a1/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "oscardemadriz@proton.me"
+      ]
+    },
+    "status": "notAvailable"
+  }
 }
