@@ -82,23 +82,6 @@
       },
       {
         "organization": {
-          "name": "Start UC3M"
-        },
-        "roles": [
-          {
-            "name": "Vicepresidente",
-            "startDate": "2017-04-01",
-            "finishDate": "2017-10-31",
-            "challenges": [
-              {
-                "description": "Labores de representación de la asociación y de apoyo a la presidenta en toma de decisiones y organización de recursos y equipos"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "La Locomotora"
         },
         "roles": [
@@ -109,6 +92,23 @@
             "challenges": [
               {
                 "description": "Involucrado en el departamento Marketing y Negocio en un entorno dinámico, participé en la creación de proyectos iniciales para La Locomotora, un venture-builder de proyectos digitales. Entre ellos, estuve implicado en el desarrollo de varios portales de retail de productos a partir de una cortadora y una impresora láser, así como un proyecto de plugins de WordPress y un portal de gestión de portfolios de profesionales creativos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Start UC3M"
+        },
+        "roles": [
+          {
+            "name": "Vicepresidente",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Labores de representación de la asociación y de apoyo a la presidenta en toma de decisiones y organización de recursos y equipos"
               }
             ]
           }
