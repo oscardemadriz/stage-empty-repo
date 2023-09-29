@@ -6,10 +6,10 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Oscar",
-      "surnames": "Sánchez",
-      "title": "Software Developer",
-      "description": "Hello! I’m Oscar Sanchez and since I was a little I loved technology, play with it, see how it works and I was fascinated about developers and hackers so meanwhile I was study I was reading, watching and trying stuff from internet.\nNow i have created web apps, APIs, small client apps, a lot of PoCs! And hacked a few things ;)\nSo what’s next ? a challenge!? Yeah for sure! \n\nExperienced Software Engineer, skilled in technology, ethical-hacking and C#. Strong engineering professional with a full-stack background and a lot of stories to tell about technology!"
+      "name": "Raúl",
+      "surnames": "Recacha Camacho",
+      "title": "Head of Engineering en Manfred",
+      "description": "(Also available in English: http://www.linkedin.com/in/raulrecacha/en)\n\nTengo más de 10 años de experiencia liderando equipos de desarrollo ágiles y como full stack developer.\n\nComencé trabajando como freelance compaginándolo con los estudios. Una vez finalizados me uní a Viavansi gestionando equipos y desarrollando multitud de proyectos tanto para la administración pública como para el sector privado.\n\nEn enero de 2013 inicié junto a sus fundadores la startup Intelliment Security, donde desarrollamos desde cero un producto para automatizar la gestión de políticas de seguridad en firewalls de grandes redes. He estado desarrollando tanto backend como frontend, también ejercía de team leader del equipo de aplicaciones, así como diversas tareas de coordinación y gestión de los equipos.\n\nEn 2018 me uní a Geographica (adquirida por CARTO en 2019) como Project Manager de diversos proyectos de Indoor Location especialmente.\n\nA primeros de 2020 me incorporé a SDOS como Head of Department, donde estaba a cargo del equipo web formado por más de 20 desarrolladores.\n\nDesde octubre de 2020 soy el nuevo Tech Lead en Manfred con el objetivo de construir las herramientas que ayuden a los manfreditas a conseguir un trabajo que les guste."
     }
   },
   "experience": {
@@ -20,40 +20,23 @@
         },
         "roles": [
           {
-            "name": "Software Developer",
-            "startDate": "2022-06-01"
+            "name": "Engineering Manager",
+            "startDate": "2020-10-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "Cloud District"
+          "name": "SDOS"
         },
         "roles": [
           {
-            "name": "Back End Developer",
-            "startDate": "2020-11-01",
-            "finishDate": "2022-06-30",
-            "challenges": [
-              {
-                "description": "My passion to deliver beautiful digital products drove me to CloudDistrict, in order to help local businesses conceptualize and build their digital product. \n\nWe successfully set up an AWS scalable solution to process and serve invoices for 5M users, using NodeJS (Lambdas), PostgreSQL, and AWS API Gateway.\n\nLeading projects as a team tech leader, focusing the team on delivering value to the clients.\n\nStandardize internal working workflows."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "POWEREXPLOSIVE S.L."
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2019-12-01",
+            "name": "Head Of Java",
+            "startDate": "2020-01-01",
             "finishDate": "2020-10-31",
             "challenges": [
               {
-                "description": "I wanted to settle up for a while and my gym was looking for a personal development to improve repetitive tasks with software solutions.\n\nTaking the ownership of the entire development and making decisions based on the needs was the challenge I was looking for 😁."
+                "description": "Como responsable del departamento de desarrollo web, me encargué de la gestión de un equipo de más de 20 desarrolladores de diferentes perfiles y experiencia. \n\nEntre mis responsabilidades estaban:\n- coordinar, junto con el COO, la asignación y seguimiento de los compañeros a los diferentes proyectos\n- consultoría y apoyo técnico horizontal para todos los proyectos\n- preventa: reuniones con potenciales clientes, estudio de licitaciones y ofertas, realización de estimaciones, etc.\n- asentar las herramientas y la metodología de desarrollo del departamento\n- definir, asentar y ampliar el stack tecnológico tanto en frontend como en backend de las aplicaciones web\n- coordinar el programa de formación de las nuevas incorporaciones y del personal de prácticas\n- participar activamente en la captación de personas, realizando entrevistas, pruebas técnicas y encaje cultural\n- velar por el bienestar personal de los compañeros, entendiendo sus necesidades, fijar objetivos en su carrera profesional, y dotar de medios para la consecución de los mismos\n\nAdicionalmente, participé como technical lead de uno de los proyectos en curso, en el que me encargué de:\n- coordinación entre los diferentes equipos de desarrollo (equipo propio + 2 equipos en outsourcing)\n- definición del modelo\n- implementación de funcionalidades con Spring Framework (SpringBoot, SpringData, SpringSecurity)\n- creación de scripts para múltiples bases de datos Microsoft SQL Server"
               }
             ]
           }
@@ -61,16 +44,16 @@
       },
       {
         "organization": {
-          "name": "Worldpackers"
+          "name": "CARTO"
         },
         "roles": [
           {
-            "name": "Volunteer",
-            "startDate": "2019-09-01",
-            "finishDate": "2019-10-01",
+            "name": "Technical Project Manager",
+            "startDate": "2019-05-01",
+            "finishDate": "2020-01-31",
             "challenges": [
               {
-                "description": "Traveling around in Italy I felt in love with Venice and Work in a Hostel where I learn a lot of human Relationships and empathy."
+                "description": "En Geographica, y poco después en CARTO, he sido responsable de diversos proyectos. Por un lado, me he encargado de la gestión de los clientes, analizando sus necesidades, proponiendo soluciones innovadoras y llevando el control del propuesto. Por otro lado, he coordinado al equipo de desarrollo y velado por la calidad del resultado.\n\nComo Project Manager, he participado en diferentes proyectos de Location Intelligence, principalmente en los relacionados con Indoor Positioning en centros comerciales, aeropuertos o centros de negocio. Este tipo de proyectos incluían, por un lado, las aplicaciones móviles (Android y iOS) que ofrecían localización en interiores, cálculo de rutas y guiado principalmente. Además de las apps, se diseñaron diferentes herramientas de análisis geoespacial.\n\nTambién he gestionado otros tipos de proyectos en CARTO, como herramientas de análisis geoespacial de carteras de clientes y oportunidades, análisis de datos geográficos, o herramientas para trabajar sobre mapas con múltiples capas.\n\nEn todos los proyectos siempre he seguido metodologías ágiles (especialmente SCRUM), apoyándome en diversas herramientas de planificación."
               }
             ]
           }
@@ -78,16 +61,16 @@
       },
       {
         "organization": {
-          "name": "Greenfinch Technology Ltd"
+          "name": "Geographica"
         },
         "roles": [
           {
-            "name": "Software Developer",
-            "startDate": "2018-09-01",
-            "finishDate": "2019-04-30",
+            "name": "Technical Project Manager",
+            "startDate": "2018-10-01",
+            "finishDate": "2019-05-31",
             "challenges": [
               {
-                "description": "We developed Mobile apps for local business in Ireland, taking requirements from clients and delivering beautiful apps."
+                "description": "Geographica fue adquirida por CARTO en mayo de 2019. Ver allí un resumen de mis responsabilidades y proyectos."
               }
             ]
           }
@@ -95,16 +78,16 @@
       },
       {
         "organization": {
-          "name": "42 Silicon Valley"
+          "name": "Intelliment Security"
         },
         "roles": [
           {
-            "name": "42 Sillicon Valley",
-            "startDate": "2018-03-01",
-            "finishDate": "2018-04-30",
+            "name": "Software Engineer and Team Leader",
+            "startDate": "2013-01-01",
+            "finishDate": "2018-10-31",
             "challenges": [
               {
-                "description": "A Hackathon for a 4 weeks in California!? Yeah! i'm totally in! I was in the March piscine where you have your teammates, your computer and a lot of hours to do all the intense and infinite exercises in C that 42 throw it to you. \nTeamwork, fun and loves to technology needed =)"
+                "description": "He formado parte de Intelliment desde que se fundó.\nComo full stack developer he participado en casi todas las capas del producto: core, backend, e interfaz de usuario. Entre mis principales tareas me he encargado del análisis técnico de nuevas funcionalidades, diseño de algoritmos complejos, implementación (backend y frontend), revisión de código, etc.\nEntre mis responsabilidades también estaban la gestión de equipos aplicando metodologías ágiles (Scrum), formar a nuevos compañeros, escalar y coordinar los diferentes equipos (Scrum de Scrum), ejercer de facilitador (Scrum Master) y definir procesos de desarrollo.\nTecnologías principales: Java, JavaScript, MongoDB, MySQL, OSGi, Virgo Jetty."
               }
             ]
           }
@@ -112,16 +95,16 @@
       },
       {
         "organization": {
-          "name": "Startup Weekend"
+          "name": "Viavansi"
         },
         "roles": [
           {
-            "name": "Volunteer",
-            "startDate": "2017-11-01",
-            "finishDate": "2017-12-01",
+            "name": "Software Developer & Team Leader",
+            "startDate": "2008-04-01",
+            "finishDate": "2013-01-31",
             "challenges": [
               {
-                "description": "What about to try to create a Startup in just 48 hours? Keep saying, try! and enjoy failing! Thats Startup Weekend about and its definitely its a life experience everyone should give a try, it doesnt matter who you are the important part is your opinnion its different and thats the key!\n\nAfter trying in March 2017 i decited to help in the making of and was huge fun! Working with the SW Team and trying to make the event posible was amazing experience."
+                "description": "En Viavansi he tenido la oportunidad de trabajar en diferentes proyectos, tanto para la administración pública como para el sector privado, destacando los siguientes: \n* Gestión en la nube de Agencias de Viajes. Análisis de diversos módulos y responsable del equipo de desarrollo. Aplicación web Java/JSF. \n* iCMS: Plataforma para la interoperabilidad de contenido procedentes de sistemas heterogéneos. Programador Java asumiendo en ocasiones tareas de análisis. \n* Tramitadores de expedientes para varias Consejerías de la Junta de Andalucía, especialmente el Tramitador de expedientes sancionadores y de recurso de la Consejería de Empleo del que he sido responsable tanto a nivel técnico como funcional. Aplicaciones web Java/JSF. \n\nOtras actividades que he llevado a cabo: \n* Taller sobre organización eficiente y productividad: cómo aplico GTD en mi día a día. \n* Participación en la RailsCamp de Madrid de 2011. Desarrollo de una pequeña aplicación con Ruby on Rails. \n* Encargado de presentar la aplicación de tramitación de Autorización Ambiental Unificada (AAU) en las Diputaciones Provinciales de Cádiz y Granada."
               }
             ]
           }
@@ -129,16 +112,16 @@
       },
       {
         "organization": {
-          "name": "ElevenPaths"
+          "name": "Freelance"
         },
         "roles": [
           {
-            "name": "Software Developer",
-            "startDate": "2013-04-01",
-            "finishDate": "2018-03-31",
+            "name": "Web Developer, Network Administrator, Customer Support",
+            "startDate": "2000-01-01",
+            "finishDate": "2008-04-30",
             "challenges": [
               {
-                "description": "2013 - 2016: Faast\nWe develop a Software as a Service (SaaS) of 24x7 Pentesting Service to detect threats before attackers do.\nI was implementing OSINT plugins and hacking techniques using C#.\nLearning the bases of design patterns and dealing with MongoDB.\n\n\n2016 - 2018: SealSign\nA biometric solution to securely sign documents.\nI was refactoring the style as a FrontEnd developer in ASP.Net and worked as a DevOps with Jenkins-Vagrant to automate all deployments and tasks"
+                "description": "Desarrollo completo de producto para gestión de constructoras (Java, JSF, J2ME).\nDiseño web (HTML, CSS, JavaScript), administración de redes y soporte informático a diferentes empresas."
               }
             ]
           }
