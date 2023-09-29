@@ -6,10 +6,10 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Raúl",
-      "surnames": "Recacha Camacho",
-      "title": "Head of Engineering en Manfred",
-      "description": "(Also available in English: http://www.linkedin.com/in/raulrecacha/en)\n\nTengo más de 10 años de experiencia liderando equipos de desarrollo ágiles y como full stack developer.\n\nComencé trabajando como freelance compaginándolo con los estudios. Una vez finalizados me uní a Viavansi gestionando equipos y desarrollando multitud de proyectos tanto para la administración pública como para el sector privado.\n\nEn enero de 2013 inicié junto a sus fundadores la startup Intelliment Security, donde desarrollamos desde cero un producto para automatizar la gestión de políticas de seguridad en firewalls de grandes redes. He estado desarrollando tanto backend como frontend, también ejercía de team leader del equipo de aplicaciones, así como diversas tareas de coordinación y gestión de los equipos.\n\nEn 2018 me uní a Geographica (adquirida por CARTO en 2019) como Project Manager de diversos proyectos de Indoor Location especialmente.\n\nA primeros de 2020 me incorporé a SDOS como Head of Department, donde estaba a cargo del equipo web formado por más de 20 desarrolladores.\n\nDesde octubre de 2020 soy el nuevo Tech Lead en Manfred con el objetivo de construir las herramientas que ayuden a los manfreditas a conseguir un trabajo que les guste."
+      "name": "Yago",
+      "surnames": "Cousiño",
+      "title": "Manfred / La Media Inglesa",
+      "description": "Como Product Manager, me apasiona crear productos digitales que conecten a personas y empresas con objetivos, intereses y valores en común. En 2018, comencé mi camino en Manfred como parte de un equipo de dos personas y media. En 2020, con un equipo de siete personas, vendimos la empresa a Sngular para poder escalarla. Durante mi tiempo en Manfred, tuve la oportunidad de trabajar en ventas, contratación interna y operaciones, lo que me ayudó a entender cómo hacer que una empresa sea rentable.\n\nAdemás, en 2017 fundé The Wing, con el objetivo de establecer un nuevo estándar en el periodismo deportivo. Aprendí mucho sobre el sector y sobre mí mismo durante esta experiencia. Actualmente, continúo trabajando en el campo del deporte junto al equipo de La Media Inglesa, un medio de comunicación sobre fútbol inglés que ha multiplicado sus ingresos por cinco en dos años.\n\nSiempre estoy buscando oportunidades para conectar con la comunidad técnica y estar al tanto de las últimas tendencias. He organizado eventos como NOSDay, Cañas A La Madrileña y TarugoConf."
     }
   },
   "experience": {
@@ -20,23 +20,11 @@
         },
         "roles": [
           {
-            "name": "Engineering Manager",
-            "startDate": "2020-10-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "SDOS"
-        },
-        "roles": [
-          {
-            "name": "Head Of Java",
-            "startDate": "2020-01-01",
-            "finishDate": "2020-10-31",
+            "name": "Product Manager",
+            "startDate": "2021-01-01",
             "challenges": [
               {
-                "description": "Como responsable del departamento de desarrollo web, me encargué de la gestión de un equipo de más de 20 desarrolladores de diferentes perfiles y experiencia. \n\nEntre mis responsabilidades estaban:\n- coordinar, junto con el COO, la asignación y seguimiento de los compañeros a los diferentes proyectos\n- consultoría y apoyo técnico horizontal para todos los proyectos\n- preventa: reuniones con potenciales clientes, estudio de licitaciones y ofertas, realización de estimaciones, etc.\n- asentar las herramientas y la metodología de desarrollo del departamento\n- definir, asentar y ampliar el stack tecnológico tanto en frontend como en backend de las aplicaciones web\n- coordinar el programa de formación de las nuevas incorporaciones y del personal de prácticas\n- participar activamente en la captación de personas, realizando entrevistas, pruebas técnicas y encaje cultural\n- velar por el bienestar personal de los compañeros, entendiendo sus necesidades, fijar objetivos en su carrera profesional, y dotar de medios para la consecución de los mismos\n\nAdicionalmente, participé como technical lead de uno de los proyectos en curso, en el que me encargué de:\n- coordinación entre los diferentes equipos de desarrollo (equipo propio + 2 equipos en outsourcing)\n- definición del modelo\n- implementación de funcionalidades con Spring Framework (SpringBoot, SpringData, SpringSecurity)\n- creación de scripts para múltiples bases de datos Microsoft SQL Server"
+                "description": "En Manfred, buscamos hacer un impacto real en el recruiting técnico mediante productos digitales. Para lograrlo, enfrentamos el desafío de convertirnos en una empresa híbrida sin comprometer la calidad de nuestros procesos. Pasamos de un equipo de 15 personas a uno de más de 40, manteniendo nuestros valores en el centro de todo lo que hacemos.\n\nEn Producto, creamos un equipo desde cero con el objetivo de:\n\n-Desarrollar tecnología propia para tener la base de candidatos activos más grande de nuestro nicho en España.\n-Proporcionar herramientas al equipo de recruiting para mejorar su trabajo y automatizar procesos.\n-Crear un sistema de instrumentación utilizando Segment y Amplitude para tomar decisiones informadas y ser eficientes con nuestros recursos.\n-Convertirnos en la herramienta por defecto a la que las empresas recurren para hacer sourcing de candidatos.\n\nGracias a nuestro enfoque en crear un producto greenfield, logramos multiplicar por 10 el tamaño de nuestra base de datos en solo 3 años, llegando a 30,000 candidatos. También mejoramos los procesos del equipo de recruiting, aumentamos su productividad en un contexto más complejo y establecimos un dashboard de datos accionables.\n\nAdemás, implementamos un enfoque de entrega continua de valor, mediante el cual desplegamos y entregamos mejoras a nuestros usuarios con frecuencia semanal, manteniendo la deuda técnica bajo control."
               }
             ]
           }
@@ -44,16 +32,15 @@
       },
       {
         "organization": {
-          "name": "CARTO"
+          "name": "La Media Inglesa"
         },
         "roles": [
           {
-            "name": "Technical Project Manager",
-            "startDate": "2019-05-01",
-            "finishDate": "2020-01-31",
+            "name": "Desarrollo de Negocio",
+            "startDate": "2020-11-01",
             "challenges": [
               {
-                "description": "En Geographica, y poco después en CARTO, he sido responsable de diversos proyectos. Por un lado, me he encargado de la gestión de los clientes, analizando sus necesidades, proponiendo soluciones innovadoras y llevando el control del propuesto. Por otro lado, he coordinado al equipo de desarrollo y velado por la calidad del resultado.\n\nComo Project Manager, he participado en diferentes proyectos de Location Intelligence, principalmente en los relacionados con Indoor Positioning en centros comerciales, aeropuertos o centros de negocio. Este tipo de proyectos incluían, por un lado, las aplicaciones móviles (Android y iOS) que ofrecían localización en interiores, cálculo de rutas y guiado principalmente. Además de las apps, se diseñaron diferentes herramientas de análisis geoespacial.\n\nTambién he gestionado otros tipos de proyectos en CARTO, como herramientas de análisis geoespacial de carteras de clientes y oportunidades, análisis de datos geográficos, o herramientas para trabajar sobre mapas con múltiples capas.\n\nEn todos los proyectos siempre he seguido metodologías ágiles (especialmente SCRUM), apoyándome en diversas herramientas de planificación."
+                "description": "Desde el inicio de mi trayectoria en La Media Inglesa, me he enfocado en crear una comunidad sólida y rentable que nos permita producir contenido diario de calidad tanto en YouTube como en Twitch. En los últimos tres años, hemos logrado conseguir una de las mayores comunidades de pago en todo el país y, desde 2022, hemos creado una productora de documentales deportivos que busca el lado más humano y con más impacto del fútbol.\n\nUno de los mayores desafíos ha sido desarrollar una red de ingresos prácticamente desde cero y profesionalizar el proyecto. \n\nPara ello, he trabajado en la generación de diferentes fuentes de ingresos y en la construcción de relaciones con patrocinadores, todo ello con muy pocos recursos. Buscando una mejor orientación estratégica, hemos cortado los procesos ineficientes y automatizado tanto los procesos organizativos como los de la tienda y la web, lo que ha mejorado notablemente la eficiencia del equipo.\n\nAdemás, he introducido herramientas y cultura de trabajo modernas como Slack y Trello, optimizando la coordinación, reduciendo errores y aumentando la eficacia de un equipo que ha pasado de cuatro personas en 2020 a ocho en la actualidad."
               }
             ]
           }
@@ -61,16 +48,16 @@
       },
       {
         "organization": {
-          "name": "Geographica"
+          "name": "Manfred"
         },
         "roles": [
           {
-            "name": "Technical Project Manager",
-            "startDate": "2018-10-01",
-            "finishDate": "2019-05-31",
+            "name": "Socio Minoriatio - Scout - Operaciones - Desarrollo de Negocio",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-12-31",
             "challenges": [
               {
-                "description": "Geographica fue adquirida por CARTO en mayo de 2019. Ver allí un resumen de mis responsabilidades y proyectos."
+                "description": "Como el primer empleado en llegar a Manfred cuando éramos solo dos personas y media y todo era un terreno virgen, tuve el honor de contar con la confianza de David Bonilla. \n\nNuestro primer desafío fue rentabilizar las ineficiencias del sector de reclutamiento tecnológico, que trataba a las personas como números. Teníamos claro nuestros valores y propósitos, así como la comunidad de desarrolladores y empresas que compartían nuestros objetivos, pero aún necesitábamos encontrar un proceso de ventas efectivo.\n\nDesde el principio, busqué impactar en todo el ciclo de diseño de nuestros servicios y la \"arquitectura\" de aplicaciones \"no-code\", lo que nos permitió crear una máquina de facturación de 7 cifras en solo unos meses.\n\nAdemás, desempeñé un papel clave en el crecimiento de nuestro equipo, pasando de dos personas a jornada completa a 44 y en constante crecimiento. Primero me centré en la ejecución de ventas y la creación de flujos que pudieran ser replicados por todo el equipo, y luego me trasladé a tareas de Producto y Formación.\n\n\"Fuimos a la guerra armados con cucharillas y sobrevivimos\"\n\nEn abril de 2020, en medio de una pandemia, nuestra empresa fue adquirida por Sngular, lo que nos permitió seguir creciendo y desarrollando varios productos digitales que tuvieran un impacto real en la comunidad técnica de España."
               }
             ]
           }
@@ -78,16 +65,16 @@
       },
       {
         "organization": {
-          "name": "Intelliment Security"
+          "name": "The Wing .es"
         },
         "roles": [
           {
-            "name": "Software Engineer and Team Leader",
-            "startDate": "2013-01-01",
-            "finishDate": "2018-10-31",
+            "name": "Cofundador",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-06-30",
             "challenges": [
               {
-                "description": "He formado parte de Intelliment desde que se fundó.\nComo full stack developer he participado en casi todas las capas del producto: core, backend, e interfaz de usuario. Entre mis principales tareas me he encargado del análisis técnico de nuevas funcionalidades, diseño de algoritmos complejos, implementación (backend y frontend), revisión de código, etc.\nEntre mis responsabilidades también estaban la gestión de equipos aplicando metodologías ágiles (Scrum), formar a nuevos compañeros, escalar y coordinar los diferentes equipos (Scrum de Scrum), ejercer de facilitador (Scrum Master) y definir procesos de desarrollo.\nTecnologías principales: Java, JavaScript, MongoDB, MySQL, OSGi, Virgo Jetty."
+                "description": "Cofundador de The Wing, una plataforma de contenido dedicada al seguimiento de la NBA. Realización de labores de marketing, sponsor, diseño web y otras tareas enmarcado dentro de la junta. "
               }
             ]
           }
@@ -95,16 +82,16 @@
       },
       {
         "organization": {
-          "name": "Viavansi"
+          "name": "Start UC3M"
         },
         "roles": [
           {
-            "name": "Software Developer & Team Leader",
-            "startDate": "2008-04-01",
-            "finishDate": "2013-01-31",
+            "name": "Vicepresidente",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-10-31",
             "challenges": [
               {
-                "description": "En Viavansi he tenido la oportunidad de trabajar en diferentes proyectos, tanto para la administración pública como para el sector privado, destacando los siguientes: \n* Gestión en la nube de Agencias de Viajes. Análisis de diversos módulos y responsable del equipo de desarrollo. Aplicación web Java/JSF. \n* iCMS: Plataforma para la interoperabilidad de contenido procedentes de sistemas heterogéneos. Programador Java asumiendo en ocasiones tareas de análisis. \n* Tramitadores de expedientes para varias Consejerías de la Junta de Andalucía, especialmente el Tramitador de expedientes sancionadores y de recurso de la Consejería de Empleo del que he sido responsable tanto a nivel técnico como funcional. Aplicaciones web Java/JSF. \n\nOtras actividades que he llevado a cabo: \n* Taller sobre organización eficiente y productividad: cómo aplico GTD en mi día a día. \n* Participación en la RailsCamp de Madrid de 2011. Desarrollo de una pequeña aplicación con Ruby on Rails. \n* Encargado de presentar la aplicación de tramitación de Autorización Ambiental Unificada (AAU) en las Diputaciones Provinciales de Cádiz y Granada."
+                "description": "Labores de representación de la asociación y de apoyo a la presidenta en toma de decisiones y organización de recursos y equipos"
               }
             ]
           }
@@ -112,16 +99,118 @@
       },
       {
         "organization": {
-          "name": "Freelance"
+          "name": "La Locomotora"
         },
         "roles": [
           {
-            "name": "Web Developer, Network Administrator, Customer Support",
-            "startDate": "2000-01-01",
-            "finishDate": "2008-04-30",
+            "name": "Telegrafista",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-11-30",
             "challenges": [
               {
-                "description": "Desarrollo completo de producto para gestión de constructoras (Java, JSF, J2ME).\nDiseño web (HTML, CSS, JavaScript), administración de redes y soporte informático a diferentes empresas."
+                "description": "Involucrado en el departamento Marketing y Negocio en un entorno dinámico, participé en la creación de proyectos iniciales para La Locomotora, un venture-builder de proyectos digitales. Entre ellos, estuve implicado en el desarrollo de varios portales de retail de productos a partir de una cortadora y una impresora láser, así como un proyecto de plugins de WordPress y un portal de gestión de portfolios de profesionales creativos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FAMAR"
+        },
+        "roles": [
+          {
+            "name": "Supply Chain Management Intern",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": "Realización de tareas de apoyo al departamento de Customer Service y Aprovisionamiento, especialmente en el área de destrucciones. Creación y testeo del sistema de KPIs de la división de Supply Chain. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Isigano.com"
+        },
+        "roles": [
+          {
+            "name": "Becario de marketing y relaciones públicas",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-08-31",
+            "challenges": [
+              {
+                "description": "Realización de tareas de marketing digital: creación de contenidos y manejo de RRSS; manejo de Google analytics, creación de newsletter y búsqueda de nuevos anunciadores. Equipo de eventos offline y de promoción presencial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket-Despacho de Auerbach"
+        },
+        "roles": [
+          {
+            "name": "Presentador Podcast y Entrevistador",
+            "startDate": "2015-06-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Organización y presentación del podcast bisemanal del Despacho de Auerbach. Realización de varias entrevistas en vídeo para SomosBasket a distintas personalidades de la NBA como Jalen Rose, Kenneth Faried o Bruce Bowen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Start UC3M"
+        },
+        "roles": [
+          {
+            "name": "Blog Manager",
+            "startDate": "2015-05-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Gestión del blog de startuc3m.com, redacción de noticias y distintos contenidos. Contacto con prensa y colaboración en la realización de distintos eventos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Supreme Group"
+        },
+        "roles": [
+          {
+            "name": "Prácticas",
+            "startDate": "2014-05-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Realización de distintas tareas en todos los departamentos de la delegación, desde contabilidad hasta compras y entrega de mercancías."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket.com"
+        },
+        "roles": [
+          {
+            "name": "Redactor Jefe",
+            "startDate": "2013-12-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "Organización del equipo de redactores de Los Ángeles Clippers, redacción de distintas noticias y artículos de análisis tanto para Clippers como para la redacción de Boston Celtics."
               }
             ]
           }
